@@ -1,4 +1,4 @@
-Java meet Spock
+Java meets Spock
 ===============
 Sample Gradle Project with Java and Spock tests
 ---------------------------------------
